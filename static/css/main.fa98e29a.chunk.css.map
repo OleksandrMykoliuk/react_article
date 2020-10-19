@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.scss"],"names":[],"mappings":"AACA,GACE,iBAAkB,CACnB,SAGC,aAAc,CACd,cAAe,CACf,SAAU,CACV,kBAA8B","file":"main.fa98e29a.chunk.css","sourcesContent":["// style go here\nh1 {\n  text-align: center;\n}\n\n.article {\n  margin: 0 auto;\n  font-size: 18px;\n  width: 80%;\n  background: rgb(236, 236, 236);\n}\n"]}
